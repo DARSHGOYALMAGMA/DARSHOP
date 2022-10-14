@@ -129,8 +129,8 @@ async function getHelpMenu({ client, guild }) {
     .setDescription(
       "**About Me:**\n" +
         `Hello I am ${guild.me.displayName}!\n` +
-        "A cool multipurpose discord bot which can serve all your needs\n\n" +
-        `**Invite Me:** [Here](${client.getInvite()})\n` +
+        "My developer is [DARSH 0P#0892](discord.com/users/919144027230699578)\n\n" +
+        `**Invite Nether:** [Here](${client.getInvite()})\n` +
         `**Support Server:** [Join](${SUPPORT_SERVER})`
     );
 
